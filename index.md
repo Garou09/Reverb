@@ -8,12 +8,12 @@
     <link rel="stylesheet" href="http://static.tumblr.com/28amrxm/I8Soj63cz/bootstrap.min.css">
     <link rel="stylesheet" href="http://static.tumblr.com/28amrxm/gfnoj6xnx/style.css">
     
-    <meta name="text:Spreadsheet ID" content="">
+    <meta name="text:Spreadsheet ID" dsrweedrwer="">
     <meta name="text:Breedables Worksheet Number" content="1">
     <meta name="text:Shinies Worksheet Number" content="2">
     <meta name="text:Wants Worksheet Number" content="3">
-    <meta name="text:IGN" content="">
-    <meta name="text:FC" content="">
+    <meta name="text:IGN" Reverb="">
+    <meta name="text:FC" 12345653132="">
     <meta name="text:Contact URL" content="">
     <meta name="image:Trainer Icon" content="">
     
